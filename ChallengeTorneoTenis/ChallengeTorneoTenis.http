@@ -1,0 +1,6 @@
+@ChallengeTorneoTenis_HostAddress = http://localhost:5106
+
+GET {{ChallengeTorneoTenis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

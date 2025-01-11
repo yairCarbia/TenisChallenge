@@ -1,0 +1,82 @@
+﻿[
+  {
+    "IdJugador": 1,
+    "Nombre": "Juan Pérez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 85,
+    "Fuerza": 80,
+    "VelocidadDesplazamiento": 75
+  },
+  {
+    "IdJugador": 2,
+    "Nombre": "Carlos Gómez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 92,
+    "Fuerza": 88,
+    "VelocidadDesplazamiento": 80
+  },
+  {
+    "IdJugador": 3,
+    "Nombre": "Miguel López",
+    "Genero": "Masculino",
+    "NivelHabilidad": 78,
+    "Fuerza": 70,
+    "VelocidadDesplazamiento": 72
+  },
+  {
+    "IdJugador": 4,
+    "Nombre": "Pedro Martínez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 90,
+    "Fuerza": 85,
+    "VelocidadDesplazamiento": 78
+  },
+  {
+    "IdJugador": 5,
+    "Nombre": "José Rodríguez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 82,
+    "Fuerza": 76,
+    "VelocidadDesplazamiento": 74
+  },
+  {
+    "IdJugador": 6,
+    "Nombre": "Andrés Sánchez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 88,
+    "Fuerza": 90,
+    "VelocidadDesplazamiento": 80
+  },
+  {
+    "IdJugador": 7,
+    "Nombre": "David Martínez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 91,
+    "Fuerza": 89,
+    "VelocidadDesplazamiento": 85
+  },
+  {
+    "IdJugador": 8,
+    "Nombre": "Luis Fernández",
+    "Genero": "Masculino",
+    "NivelHabilidad": 84,
+    "Fuerza": 78,
+    "VelocidadDesplazamiento": 77
+  },
+  {
+    "IdJugador": 9,
+    "Nombre": "Javier Ruiz",
+    "Genero": "Masculino",
+    "NivelHabilidad": 79,
+    "Fuerza": 73,
+    "VelocidadDesplazamiento": 70
+  },
+  {
+    "IdJugador": 10,
+    "Nombre": "Santiago Álvarez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 93,
+    "Fuerza": 87,
+    "VelocidadDesplazamiento": 83
+  }
+]
