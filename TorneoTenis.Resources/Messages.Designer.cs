@@ -61,6 +61,15 @@ namespace TorneoTenis.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a {0} {1}.
+        /// </summary>
+        public static string APELLIDO_NOMBRE {
+            get {
+                return ResourceManager.GetString("APELLIDO_NOMBRE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a Data.
         /// </summary>
         public static string Data {

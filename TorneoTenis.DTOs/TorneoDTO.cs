@@ -2,8 +2,10 @@
 {
     public class TorneoDTO
     {
-        public string NombreTorneo { get; set; } = string.Empty;    
-        public List<RondaDTO> Rondas { get; set; } = new List<RondaDTO>();
-        public JugadorDTO? Ganador { get; set; }
+        public Guid IdTorneo { get; set; }
+
+        public DateTime Fecha { get; set; }
+        public string Ganador { get; set; } = string.Empty;
+
     }
 }

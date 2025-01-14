@@ -8,9 +8,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
+#region Business
 builder.Services.AddScoped<ITorneoBusiness, TorneoBusiness>();
 builder.Services.AddScoped<IPartidoBusiness, PartidoBusiness>();
+builder.Services.AddScoped<ITorneoAuditoriaBusiness, TorneoAuditoriaBusiness>();
+#endregion
 
 var app = builder.Build();
 
