@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TorneoTenis.DTOs\TorneoTenis.DTOs.csproj" />
+    <ProjectReference Include="..\TorneoTenis.Helpers\TorneoTenis.Helpers.csproj" />
+  </ItemGroup>
+
 </Project>

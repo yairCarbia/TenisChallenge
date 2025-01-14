@@ -1,4 +1,6 @@
-﻿namespace TorneoTenis.TDA
+﻿using System.Text.Json.Serialization;
+
+namespace TorneoTenis.TDA
 {
     namespace TorneoTenis.DTOs
     {
@@ -39,7 +41,7 @@
                 /// <summary>
                 /// Velocidad de desplazamiento del jugador.
                 /// </summary>
-                public int Velocidad { get; set; }
+                public int VelocidadDesplazamiento { get; set; }
 
                 /// <summary>
                 /// Constructor para inicializar un jugador.
@@ -58,9 +60,19 @@
                     Genero = genero;
                     NivelHabilidad = nivelHabilidad;
                     Fuerza = fuerza;
-                    Velocidad = velocidad;
+                    VelocidadDesplazamiento = velocidad;
                 }
 
+                [JsonConstructor]
+                public Jugador(Guid idJugador, string nombre, string genero, int nivelHabilidad, int fuerza, int velocidadDesplazamiento)
+                {
+                    IdJugador = idJugador;
+                    Nombre = nombre;
+                    Genero = genero;
+                    NivelHabilidad = nivelHabilidad;
+                    Fuerza = fuerza;
+                    VelocidadDesplazamiento = velocidadDesplazamiento;
+                }
                 /// <summary>
                 /// Calcula un puntaje total para el jugador considerando habilidad, fuerza, velocidad y suerte.
                 /// </summary>
@@ -69,7 +81,7 @@
                 {
                     Random random = new Random();
                     int suerte = random.Next(0, 21);
-                    return NivelHabilidad + Fuerza + Velocidad + suerte;
+                    return NivelHabilidad + Fuerza + VelocidadDesplazamiento + suerte;
                 }
             }
         }

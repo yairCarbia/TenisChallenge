@@ -9,9 +9,17 @@
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
+	<ItemGroup>
+		<None Update="TorneoTenis.Helpers\Data\jugadores.json">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
+
+	<ItemGroup>
+    <ProjectReference Include="..\TorneoTenis.Business\TorneoTenis.Business.csproj" />
+    <ProjectReference Include="..\TorneoTenis.DTOs\TorneoTenis.DTOs.csproj" />
+    <ProjectReference Include="..\TorneoTenis.Resources\TorneoTenis.Resources.csproj" />
   </ItemGroup>
 
 </Project>

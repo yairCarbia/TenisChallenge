@@ -10,10 +10,10 @@ public static class JsonHelper
     /// </summary>
     /// <param name="rutaArchivo">Ruta al archivo JSON.</param>
     /// <returns>Lista de jugadores.</returns>
-    public static List<Jugador> LeerJugadoresDesdeJson(string rutaArchivo)
+    public static List<Jugador> GetJugadoresFromJson(string rutaArchivo)
     {
         if (!File.Exists(rutaArchivo))
-            throw new FileNotFoundException(Messages.MESSAGES_NO_SE_ENCONTRO_EL_ARCHIVO_JSON.Format(rutaArchivo));
+            throw new FileNotFoundException(Messages.MESSAGES_ERROR_NO_SE_ENCONTRO_EL_ARCHIVO_JSON.Format(rutaArchivo));
 
         string json = File.ReadAllText(rutaArchivo);
         return JsonSerializer.Deserialize<List<Jugador>>(json);

@@ -61,11 +61,74 @@ namespace TorneoTenis.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a Data.
+        /// </summary>
+        public static string Data {
+            get {
+                return ResourceManager.GetString("Data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Helpers.
+        /// </summary>
+        public static string Helpers {
+            get {
+                return ResourceManager.GetString("Helpers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a jugadores.json.
+        /// </summary>
+        public static string Jugadores_Punto_Json {
+            get {
+                return ResourceManager.GetString("Jugadores_Punto_Json", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a La cantidad de jugadores debe ser potencia de 2..
+        /// </summary>
+        public static string MESSAGES_ERROR_CANTIDAD_JUGADORES_POTENCIA_DE_2 {
+            get {
+                return ResourceManager.GetString("MESSAGES_ERROR_CANTIDAD_JUGADORES_POTENCIA_DE_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a La lista de jugadores no puede estar vacía..
+        /// </summary>
+        public static string MESSAGES_ERROR_LISTA_JUGADORES_VACIA {
+            get {
+                return ResourceManager.GetString("MESSAGES_ERROR_LISTA_JUGADORES_VACIA", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a No se encontró el archivo en la ruta: {0}..
         /// </summary>
-        public static string MESSAGES_NO_SE_ENCONTRO_EL_ARCHIVO_JSON {
+        public static string MESSAGES_ERROR_NO_SE_ENCONTRO_EL_ARCHIVO_JSON {
             get {
-                return ResourceManager.GetString("MESSAGES_NO_SE_ENCONTRO_EL_ARCHIVO_JSON", resourceCulture);
+                return ResourceManager.GetString("MESSAGES_ERROR_NO_SE_ENCONTRO_EL_ARCHIVO_JSON", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Se requieren 2 jugadores..
+        /// </summary>
+        public static string MESSAGES_ERROR_SE_REQUIEREN_2_JUGADORES {
+            get {
+                return ResourceManager.GetString("MESSAGES_ERROR_SE_REQUIEREN_2_JUGADORES", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a El torneo aún no comenzo..
+        /// </summary>
+        public static string MESSAGES_ERROR_TONEO_AUN_NO_COMENZO {
+            get {
+                return ResourceManager.GetString("MESSAGES_ERROR_TONEO_AUN_NO_COMENZO", resourceCulture);
             }
         }
     }

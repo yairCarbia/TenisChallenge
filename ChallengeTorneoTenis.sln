@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeTorneoTenis", "ChallengeTorneoTenis\ChallengeTorneoTenis.csproj", "{10610FDA-AC37-4876-9230-8962B61B5B70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeTorneoTenis", "ChallengeTorneoTenis\ChallengeTorneoTenis.csproj", "{10610FDA-AC37-4876-9230-8962B61B5B70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneoTenis.TDA", "TorneoTenis.TDA\TorneoTenis.TDA.csproj", "{1A01FA71-680E-41EC-83AD-1E8E3C7206FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TorneoTenis.TDA", "TorneoTenis.TDA\TorneoTenis.TDA.csproj", "{1A01FA71-680E-41EC-83AD-1E8E3C7206FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneoTenis.Business", "TorneoTenis.Business\TorneoTenis.Business.csproj", "{6533C194-B0B2-4764-87A1-60E11A82ECAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TorneoTenis.Business", "TorneoTenis.Business\TorneoTenis.Business.csproj", "{6533C194-B0B2-4764-87A1-60E11A82ECAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneoTenis.DTOs", "TorneoTenis.DTOs\TorneoTenis.DTOs.csproj", "{B8E242CA-F5BB-432B-9ADC-AEF9F917664F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TorneoTenis.DTOs", "TorneoTenis.DTOs\TorneoTenis.DTOs.csproj", "{B8E242CA-F5BB-432B-9ADC-AEF9F917664F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneoTenis.Helpers", "TorneoTenis.Helpers\TorneoTenis.Helpers.csproj", "{2ED9A971-012B-41E0-BA89-17DD98C4DF44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TorneoTenis.Helpers", "TorneoTenis.Helpers\TorneoTenis.Helpers.csproj", "{2ED9A971-012B-41E0-BA89-17DD98C4DF44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneoTenis.Resources", "TorneoTenis.Resources\TorneoTenis.Resources.csproj", "{99762443-4E75-4425-B236-C6660DC619A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TorneoTenis.Resources", "TorneoTenis.Resources\TorneoTenis.Resources.csproj", "{99762443-4E75-4425-B236-C6660DC619A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

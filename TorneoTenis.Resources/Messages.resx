@@ -117,7 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MESSAGES_NO_SE_ENCONTRO_EL_ARCHIVO_JSON" xml:space="preserve">
+  <data name="Data" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="Helpers" xml:space="preserve">
+    <value>Helpers</value>
+  </data>
+  <data name="Jugadores_Punto_Json" xml:space="preserve">
+    <value>jugadores.json</value>
+  </data>
+  <data name="MESSAGES_ERROR_CANTIDAD_JUGADORES_POTENCIA_DE_2" xml:space="preserve">
+    <value>La cantidad de jugadores debe ser potencia de 2.</value>
+  </data>
+  <data name="MESSAGES_ERROR_LISTA_JUGADORES_VACIA" xml:space="preserve">
+    <value>La lista de jugadores no puede estar vacía.</value>
+  </data>
+  <data name="MESSAGES_ERROR_NO_SE_ENCONTRO_EL_ARCHIVO_JSON" xml:space="preserve">
     <value>No se encontró el archivo en la ruta: {0}.</value>
+  </data>
+  <data name="MESSAGES_ERROR_SE_REQUIEREN_2_JUGADORES" xml:space="preserve">
+    <value>Se requieren 2 jugadores.</value>
+  </data>
+  <data name="MESSAGES_ERROR_TONEO_AUN_NO_COMENZO" xml:space="preserve">
+    <value>El torneo aún no comenzo.</value>
   </data>
 </root>

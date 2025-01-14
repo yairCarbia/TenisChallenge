@@ -1,82 +1,802 @@
 ﻿[
   {
-    "IdJugador": 1,
-    "Nombre": "Juan Pérez",
+    "IdJugador": "cf358d53-e453-4e2f-8585-62846f5c4f01",
+    "Nombre": "Manuel Rodr\u00edguez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 100,
+    "Fuerza": 77,
+    "VelocidadDesplazamiento": 82
+  },
+  {
+    "IdJugador": "0c956972-d1ad-41e9-951e-892ffc62961a",
+    "Nombre": "Jos\u00e9 Luis Gonz\u00e1lez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 81,
+    "Fuerza": 88,
+    "VelocidadDesplazamiento": 94
+  },
+  {
+    "IdJugador": "cd4e03e7-8d60-4341-9014-24bbc56c24a5",
+    "Nombre": "Jos\u00e9 Luis P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 86,
+    "Fuerza": 98,
+    "VelocidadDesplazamiento": 74
+  },
+  {
+    "IdJugador": "2423c801-ed0b-439d-8587-aa350e33b18c",
+    "Nombre": "Juan Carlos S\u00e1nchez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 98,
+    "Fuerza": 89,
+    "VelocidadDesplazamiento": 96
+  },
+  {
+    "IdJugador": "1647e2b0-5df1-41cd-8ca9-f1adb4e9abcc",
+    "Nombre": "Carlos Mart\u00edn",
+    "Genero": "Masculino",
+    "NivelHabilidad": 95,
+    "Fuerza": 91,
+    "VelocidadDesplazamiento": 96
+  },
+  {
+    "IdJugador": "7c403ac6-72ae-46c3-8c7a-5c82a90384bd",
+    "Nombre": "Gonzalo P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 90,
+    "Fuerza": 71,
+    "VelocidadDesplazamiento": 70
+  },
+  {
+    "IdJugador": "cca5de5d-c5b9-458d-9d1e-395aca9d22c5",
+    "Nombre": "Antonio Mart\u00edn",
     "Genero": "Masculino",
     "NivelHabilidad": 85,
-    "Fuerza": 80,
+    "Fuerza": 81,
+    "VelocidadDesplazamiento": 82
+  },
+  {
+    "IdJugador": "1bc3357f-6fd8-454f-ad24-19cade4c1332",
+    "Nombre": "Antonio Mart\u00edn",
+    "Genero": "Masculino",
+    "NivelHabilidad": 81,
+    "Fuerza": 82,
+    "VelocidadDesplazamiento": 92
+  },
+  {
+    "IdJugador": "197020f9-1f4a-4daf-bb0c-1d681322d541",
+    "Nombre": "Gerardo L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 94,
+    "Fuerza": 93,
+    "VelocidadDesplazamiento": 92
+  },
+  {
+    "IdJugador": "900eb9ef-f4a7-406b-9772-54294140b881",
+    "Nombre": "Diego Romero",
+    "Genero": "Masculino",
+    "NivelHabilidad": 97,
+    "Fuerza": 89,
+    "VelocidadDesplazamiento": 71
+  },
+  {
+    "IdJugador": "dd333a51-eaab-4385-b199-23ca19ead109",
+    "Nombre": "Carlos G\u00f3mez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 89,
+    "Fuerza": 93,
+    "VelocidadDesplazamiento": 87
+  },
+  {
+    "IdJugador": "6b6997e1-6a57-461e-98eb-71bfa21c1d20",
+    "Nombre": "Santiago \u00c1lvarez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 100,
+    "Fuerza": 73,
+    "VelocidadDesplazamiento": 84
+  },
+  {
+    "IdJugador": "496fb025-2fe7-46f3-9a76-93e1aca7f15f",
+    "Nombre": "Sergio Rodr\u00edguez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 90,
+    "Fuerza": 86,
+    "VelocidadDesplazamiento": 95
+  },
+  {
+    "IdJugador": "13fa7106-e0da-4547-a969-eb68b28fcd8e",
+    "Nombre": "Ricardo Ruiz",
+    "Genero": "Masculino",
+    "NivelHabilidad": 89,
+    "Fuerza": 72,
+    "VelocidadDesplazamiento": 87
+  },
+  {
+    "IdJugador": "04ce55bb-6186-4dbd-936c-e3079c267675",
+    "Nombre": "Enrique S\u00e1nchez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 87,
+    "Fuerza": 74,
     "VelocidadDesplazamiento": 75
   },
   {
-    "IdJugador": 2,
-    "Nombre": "Carlos Gómez",
+    "IdJugador": "86479a5f-9348-406c-96f5-ba686b0e5208",
+    "Nombre": "\u00d3scar Rodr\u00edguez",
     "Genero": "Masculino",
     "NivelHabilidad": 92,
-    "Fuerza": 88,
-    "VelocidadDesplazamiento": 80
+    "Fuerza": 92,
+    "VelocidadDesplazamiento": 74
   },
   {
-    "IdJugador": 3,
-    "Nombre": "Miguel López",
+    "IdJugador": "2413dd4a-522e-43a2-a59c-f4bb64a3454d",
+    "Nombre": "Jos\u00e9 Miguel Garc\u00eda",
+    "Genero": "Masculino",
+    "NivelHabilidad": 89,
+    "Fuerza": 82,
+    "VelocidadDesplazamiento": 86
+  },
+  {
+    "IdJugador": "19a263c6-a75f-480b-a344-128359eeaf7e",
+    "Nombre": "David Mart\u00edn",
+    "Genero": "Masculino",
+    "NivelHabilidad": 81,
+    "Fuerza": 72,
+    "VelocidadDesplazamiento": 84
+  },
+  {
+    "IdJugador": "de428b4b-12dc-4ea5-a529-2e422fc910e6",
+    "Nombre": "Enrique Fern\u00e1ndez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 100,
+    "Fuerza": 79,
+    "VelocidadDesplazamiento": 87
+  },
+  {
+    "IdJugador": "0186d7b2-21c7-4cf6-b4e5-9471db62ead9",
+    "Nombre": "Pedro L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 70,
+    "Fuerza": 80,
+    "VelocidadDesplazamiento": 79
+  },
+  {
+    "IdJugador": "f6187d87-a450-4374-a50e-e04ee6a97fc0",
+    "Nombre": "\u00c1ngel Torres",
+    "Genero": "Masculino",
+    "NivelHabilidad": 97,
+    "Fuerza": 72,
+    "VelocidadDesplazamiento": 70
+  },
+  {
+    "IdJugador": "ff492a6c-174b-4e15-a47e-28d35a0c77c8",
+    "Nombre": "Jos\u00e9 Mar\u00eda L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 98,
+    "Fuerza": 90,
+    "VelocidadDesplazamiento": 90
+  },
+  {
+    "IdJugador": "32b404f5-372d-43ee-9918-7c9d3232fa3a",
+    "Nombre": "Luis Mart\u00edn",
+    "Genero": "Masculino",
+    "NivelHabilidad": 79,
+    "Fuerza": 87,
+    "VelocidadDesplazamiento": 91
+  },
+  {
+    "IdJugador": "13807642-4f97-4e2a-a381-b139a24f9a60",
+    "Nombre": "Carlos Romero",
+    "Genero": "Masculino",
+    "NivelHabilidad": 75,
+    "Fuerza": 78,
+    "VelocidadDesplazamiento": 81
+  },
+  {
+    "IdJugador": "079d462a-11ea-4310-b944-ffe49df9088d",
+    "Nombre": "Tom\u00e1s Garc\u00eda",
+    "Genero": "Masculino",
+    "NivelHabilidad": 97,
+    "Fuerza": 92,
+    "VelocidadDesplazamiento": 92
+  },
+  {
+    "IdJugador": "afb00419-fa8d-48f0-9109-bb4bc7224d78",
+    "Nombre": "Carlos P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 96,
+    "Fuerza": 75,
+    "VelocidadDesplazamiento": 100
+  },
+  {
+    "IdJugador": "47ed2cdf-62eb-4941-80a8-6c9e050826a6",
+    "Nombre": "Jorge Romero",
     "Genero": "Masculino",
     "NivelHabilidad": 78,
+    "Fuerza": 91,
+    "VelocidadDesplazamiento": 91
+  },
+  {
+    "IdJugador": "2bc6320c-9c50-441c-8a42-9ce5c1cfde03",
+    "Nombre": "Joaqu\u00edn Garc\u00eda",
+    "Genero": "Masculino",
+    "NivelHabilidad": 88,
+    "Fuerza": 79,
+    "VelocidadDesplazamiento": 97
+  },
+  {
+    "IdJugador": "b15a19c5-d7bd-4404-a01b-91bdff634472",
+    "Nombre": "Ricardo Fern\u00e1ndez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 88,
+    "Fuerza": 71,
+    "VelocidadDesplazamiento": 98
+  },
+  {
+    "IdJugador": "9863e12e-e1ee-4a53-b6db-b27eb1926a02",
+    "Nombre": "Tom\u00e1s L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 98,
+    "Fuerza": 82,
+    "VelocidadDesplazamiento": 74
+  },
+  {
+    "IdJugador": "b9a40111-39c2-432e-94bc-3c616009356f",
+    "Nombre": "Rafael Mart\u00ednez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 92,
+    "Fuerza": 83,
+    "VelocidadDesplazamiento": 81
+  },
+  {
+    "IdJugador": "40381a83-94e2-40b1-922b-a8c1092836be",
+    "Nombre": "Juan Jos\u00e9 Rodr\u00edguez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 95,
+    "Fuerza": 84,
+    "VelocidadDesplazamiento": 86
+  },
+  {
+    "IdJugador": "2ea3f5f8-8db4-44a5-8157-090cd4ed1b08",
+    "Nombre": "Francisco S\u00e1nchez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 96,
+    "Fuerza": 93,
+    "VelocidadDesplazamiento": 86
+  },
+  {
+    "IdJugador": "c1e189d0-7752-4515-b1bc-a146a0a85dea",
+    "Nombre": "Luis Garc\u00eda",
+    "Genero": "Masculino",
+    "NivelHabilidad": 79,
+    "Fuerza": 87,
+    "VelocidadDesplazamiento": 83
+  },
+  {
+    "IdJugador": "1a6bdc3c-6e09-4256-9626-925bec73b25e",
+    "Nombre": "Andr\u00e9s P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 81,
+    "Fuerza": 82,
+    "VelocidadDesplazamiento": 100
+  },
+  {
+    "IdJugador": "e4153517-4550-4471-85ea-0b6266b2244c",
+    "Nombre": "Fernando D\u00edaz",
+    "Genero": "Masculino",
+    "NivelHabilidad": 71,
+    "Fuerza": 86,
+    "VelocidadDesplazamiento": 89
+  },
+  {
+    "IdJugador": "b264c4d1-6a9b-45d9-88c3-654c9d80a391",
+    "Nombre": "Manuel Garc\u00eda",
+    "Genero": "Masculino",
+    "NivelHabilidad": 70,
+    "Fuerza": 92,
+    "VelocidadDesplazamiento": 84
+  },
+  {
+    "IdJugador": "fc64623a-032f-4695-982e-cbe1b290e534",
+    "Nombre": "Jorge S\u00e1nchez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 84,
+    "Fuerza": 88,
+    "VelocidadDesplazamiento": 88
+  },
+  {
+    "IdJugador": "51c11717-1651-4311-a06a-078addf34789",
+    "Nombre": "V\u00edctor Mart\u00edn",
+    "Genero": "Masculino",
+    "NivelHabilidad": 76,
+    "Fuerza": 78,
+    "VelocidadDesplazamiento": 74
+  },
+  {
+    "IdJugador": "1031fce6-a5ec-4ee8-bb3f-95db503d449d",
+    "Nombre": "Rub\u00e9n Garc\u00eda",
+    "Genero": "Masculino",
+    "NivelHabilidad": 83,
+    "Fuerza": 80,
+    "VelocidadDesplazamiento": 87
+  },
+  {
+    "IdJugador": "909856f4-7f06-4d5f-b37d-f64161142567",
+    "Nombre": "Jorge Gonz\u00e1lez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 82,
+    "Fuerza": 83,
+    "VelocidadDesplazamiento": 81
+  },
+  {
+    "IdJugador": "433368c3-56b1-449d-8df9-05c3fb0a41e5",
+    "Nombre": "David Fern\u00e1ndez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 72,
+    "Fuerza": 99,
+    "VelocidadDesplazamiento": 76
+  },
+  {
+    "IdJugador": "c8dda738-5229-4e80-a651-39965c081fc8",
+    "Nombre": "Jos\u00e9 Antonio P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 78,
+    "Fuerza": 77,
+    "VelocidadDesplazamiento": 97
+  },
+  {
+    "IdJugador": "0b06be7f-9477-4b92-869f-f894ce0bd022",
+    "Nombre": "David Rodr\u00edguez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 75,
+    "Fuerza": 94,
+    "VelocidadDesplazamiento": 96
+  },
+  {
+    "IdJugador": "9c770f4b-c367-430e-8504-7c75243bb4f9",
+    "Nombre": "Tom\u00e1s S\u00e1nchez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 81,
     "Fuerza": 70,
     "VelocidadDesplazamiento": 72
   },
   {
-    "IdJugador": 4,
-    "Nombre": "Pedro Martínez",
+    "IdJugador": "027ba6b8-34c0-4b1f-8731-5633125d0e5e",
+    "Nombre": "Ra\u00fal Fern\u00e1ndez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 74,
+    "Fuerza": 96,
+    "VelocidadDesplazamiento": 73
+  },
+  {
+    "IdJugador": "dd4c2f60-c1e4-4dcb-9307-ddc76cdf7652",
+    "Nombre": "Jos\u00e9 Carlos Hern\u00e1ndez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 70,
+    "Fuerza": 85,
+    "VelocidadDesplazamiento": 83
+  },
+  {
+    "IdJugador": "0087fd23-046f-490c-83d6-fcb1832b8736",
+    "Nombre": "Santiago Gonz\u00e1lez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 86,
+    "Fuerza": 96,
+    "VelocidadDesplazamiento": 81
+  },
+  {
+    "IdJugador": "14641608-3fcd-410f-af38-63c63e877bb6",
+    "Nombre": "Manuel Jim\u00e9nez",
     "Genero": "Masculino",
     "NivelHabilidad": 90,
-    "Fuerza": 85,
+    "Fuerza": 87,
     "VelocidadDesplazamiento": 78
   },
   {
-    "IdJugador": 5,
-    "Nombre": "José Rodríguez",
+    "IdJugador": "abd8bce9-3cc5-416d-a11b-3c5d6284cfda",
+    "Nombre": "David Romero",
     "Genero": "Masculino",
-    "NivelHabilidad": 82,
-    "Fuerza": 76,
+    "NivelHabilidad": 76,
+    "Fuerza": 82,
+    "VelocidadDesplazamiento": 91
+  },
+  {
+    "IdJugador": "e92ddea2-da7f-4dae-8d47-4d21de619b51",
+    "Nombre": "Miguel L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 92,
+    "Fuerza": 99,
+    "VelocidadDesplazamiento": 73
+  },
+  {
+    "IdJugador": "1a2c0ba1-d85a-46aa-bbb7-a5962f35e130",
+    "Nombre": "Javier Ruiz",
+    "Genero": "Masculino",
+    "NivelHabilidad": 89,
+    "Fuerza": 96,
+    "VelocidadDesplazamiento": 76
+  },
+  {
+    "IdJugador": "5cf1c177-922f-4296-a7cf-85585a12ff0a",
+    "Nombre": "Iv\u00e1n Mart\u00ednez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 83,
+    "Fuerza": 84,
+    "VelocidadDesplazamiento": 79
+  },
+  {
+    "IdJugador": "ff19fc02-8b66-45e5-96f0-c238cfc0927a",
+    "Nombre": "Pablo Garc\u00eda",
+    "Genero": "Masculino",
+    "NivelHabilidad": 100,
+    "Fuerza": 84,
+    "VelocidadDesplazamiento": 94
+  },
+  {
+    "IdJugador": "4f3aa406-5df1-4e2a-9c33-8be18c3ee188",
+    "Nombre": "Luis Herrera",
+    "Genero": "Masculino",
+    "NivelHabilidad": 97,
+    "Fuerza": 73,
+    "VelocidadDesplazamiento": 88
+  },
+  {
+    "IdJugador": "e279c238-79fa-4c93-8dc5-9bc798872e8d",
+    "Nombre": "Javier G\u00f3mez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 74,
+    "Fuerza": 71,
     "VelocidadDesplazamiento": 74
   },
   {
-    "IdJugador": 6,
-    "Nombre": "Andrés Sánchez",
+    "IdJugador": "d9a54b9f-e244-485b-ba4f-a623505b37e3",
+    "Nombre": "Carlos Gonz\u00e1lez",
     "Genero": "Masculino",
-    "NivelHabilidad": 88,
-    "Fuerza": 90,
-    "VelocidadDesplazamiento": 80
+    "NivelHabilidad": 72,
+    "Fuerza": 97,
+    "VelocidadDesplazamiento": 88
   },
   {
-    "IdJugador": 7,
-    "Nombre": "David Martínez",
+    "IdJugador": "53f70a7d-15ae-47c4-ac71-882d388137d6",
+    "Nombre": "Felipe D\u00edaz",
     "Genero": "Masculino",
-    "NivelHabilidad": 91,
-    "Fuerza": 89,
-    "VelocidadDesplazamiento": 85
+    "NivelHabilidad": 75,
+    "Fuerza": 71,
+    "VelocidadDesplazamiento": 72
   },
   {
-    "IdJugador": 8,
-    "Nombre": "Luis Fernández",
+    "IdJugador": "533ea384-2e2e-4e62-b55c-42dda977684a",
+    "Nombre": "V\u00edctor S\u00e1nchez",
     "Genero": "Masculino",
-    "NivelHabilidad": 84,
-    "Fuerza": 78,
-    "VelocidadDesplazamiento": 77
+    "NivelHabilidad": 98,
+    "Fuerza": 97,
+    "VelocidadDesplazamiento": 100
   },
   {
-    "IdJugador": 9,
-    "Nombre": "Javier Ruiz",
+    "IdJugador": "87c65e1e-f7ab-48f8-ad18-037714f4d8b8",
+    "Nombre": "Mart\u00edn Garc\u00eda",
     "Genero": "Masculino",
-    "NivelHabilidad": 79,
-    "Fuerza": 73,
+    "NivelHabilidad": 85,
+    "Fuerza": 94,
     "VelocidadDesplazamiento": 70
   },
   {
-    "IdJugador": 10,
-    "Nombre": "Santiago Álvarez",
+    "IdJugador": "12705f57-f40a-4c96-aeab-bddc8c9fd8dc",
+    "Nombre": "Salvador P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 78,
+    "Fuerza": 85,
+    "VelocidadDesplazamiento": 80
+  },
+  {
+    "IdJugador": "5be83750-6ac2-4dfa-9c84-ff8edceec60e",
+    "Nombre": "Rafael L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 99,
+    "Fuerza": 78,
+    "VelocidadDesplazamiento": 82
+  },
+  {
+    "IdJugador": "5708a0fe-4c41-4bbb-842e-71664820ba12",
+    "Nombre": "Pablo S\u00e1nchez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 85,
+    "Fuerza": 81,
+    "VelocidadDesplazamiento": 72
+  },
+  {
+    "IdJugador": "9c97ead1-2fc6-40ec-8db0-56c2d699e845",
+    "Nombre": "Fernando S\u00e1nchez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 70,
+    "Fuerza": 76,
+    "VelocidadDesplazamiento": 87
+  },
+  {
+    "IdJugador": "802d3331-f96b-4bc5-939e-38b141a522ef",
+    "Nombre": "Alberto Herrera",
+    "Genero": "Masculino",
+    "NivelHabilidad": 73,
+    "Fuerza": 80,
+    "VelocidadDesplazamiento": 87
+  },
+  {
+    "IdJugador": "1daf2cc0-8c51-4709-bc76-0971b3984828",
+    "Nombre": "Antonio Garc\u00eda",
+    "Genero": "Masculino",
+    "NivelHabilidad": 95,
+    "Fuerza": 90,
+    "VelocidadDesplazamiento": 79
+  },
+  {
+    "IdJugador": "f3792bfe-9e88-431f-98db-5763c760c85c",
+    "Nombre": "Jos\u00e9 Rodr\u00edguez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 79,
+    "Fuerza": 76,
+    "VelocidadDesplazamiento": 97
+  },
+  {
+    "IdJugador": "a06729ab-ec27-45f7-ae46-0c8810934ca6",
+    "Nombre": "Alejandro L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 70,
+    "Fuerza": 83,
+    "VelocidadDesplazamiento": 76
+  },
+  {
+    "IdJugador": "29e00082-1ed7-4735-aa59-72eec2f9295a",
+    "Nombre": "Jos\u00e9 Antonio Garc\u00eda",
+    "Genero": "Masculino",
+    "NivelHabilidad": 92,
+    "Fuerza": 84,
+    "VelocidadDesplazamiento": 86
+  },
+  {
+    "IdJugador": "6a7328bf-2728-43f8-a28c-1eba7d33a831",
+    "Nombre": "Jos\u00e9 Antonio L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 77,
+    "Fuerza": 92,
+    "VelocidadDesplazamiento": 74
+  },
+  {
+    "IdJugador": "cad4e8e0-a6b2-495d-8a2b-e702d02b3551",
+    "Nombre": "Jos\u00e9 Miguel Rodr\u00edguez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 74,
+    "Fuerza": 96,
+    "VelocidadDesplazamiento": 74
+  },
+  {
+    "IdJugador": "3ac94313-8c9d-4a8d-b36a-8f62cf4b1bc7",
+    "Nombre": "Marcos Gonz\u00e1lez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 78,
+    "Fuerza": 94,
+    "VelocidadDesplazamiento": 89
+  },
+  {
+    "IdJugador": "faa2feba-788c-4785-bd8f-ac6b63689abb",
+    "Nombre": "\u00c1lvaro P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 76,
+    "Fuerza": 78,
+    "VelocidadDesplazamiento": 80
+  },
+  {
+    "IdJugador": "f1f4f303-fc2d-45d1-a40d-ce635b3b6002",
+    "Nombre": "Adri\u00e1n L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 87,
+    "Fuerza": 89,
+    "VelocidadDesplazamiento": 72
+  },
+  {
+    "IdJugador": "16902d0e-4463-4a53-a321-dc7ee41c5516",
+    "Nombre": "Luis Romero",
+    "Genero": "Masculino",
+    "NivelHabilidad": 72,
+    "Fuerza": 72,
+    "VelocidadDesplazamiento": 83
+  },
+  {
+    "IdJugador": "b990f71a-086c-413b-bbf0-fbf88e17bfb9",
+    "Nombre": "Rub\u00e9n P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 75,
+    "Fuerza": 88,
+    "VelocidadDesplazamiento": 89
+  },
+  {
+    "IdJugador": "dc6905af-7f7a-4d64-b5bf-4190e0495afb",
+    "Nombre": "Juan P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 96,
+    "Fuerza": 87,
+    "VelocidadDesplazamiento": 73
+  },
+  {
+    "IdJugador": "d958d91e-e62b-42bd-b554-42a5f404b077",
+    "Nombre": "Iv\u00e1n Rodr\u00edguez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 96,
+    "Fuerza": 93,
+    "VelocidadDesplazamiento": 82
+  },
+  {
+    "IdJugador": "877e3ed9-a682-4149-b1f6-5f05596024e0",
+    "Nombre": "Fernando L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 80,
+    "Fuerza": 80,
+    "VelocidadDesplazamiento": 84
+  },
+  {
+    "IdJugador": "7e7c3fa5-0932-494a-8253-e50a04aa9cca",
+    "Nombre": "Andr\u00e9s S\u00e1nchez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 71,
+    "Fuerza": 81,
+    "VelocidadDesplazamiento": 94
+  },
+  {
+    "IdJugador": "652691ce-2fb1-46f4-b90d-865ab01f1af9",
+    "Nombre": "Francisco Jim\u00e9nez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 88,
+    "Fuerza": 81,
+    "VelocidadDesplazamiento": 72
+  },
+  {
+    "IdJugador": "26583ba0-8843-4941-80d6-6b2c86bd3f9f",
+    "Nombre": "Felipe G\u00f3mez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 97,
+    "Fuerza": 83,
+    "VelocidadDesplazamiento": 95
+  },
+  {
+    "IdJugador": "dce9cb3e-c2cb-48cb-8012-25cc3be44ed1",
+    "Nombre": "David S\u00e1nchez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 91,
+    "Fuerza": 90,
+    "VelocidadDesplazamiento": 93
+  },
+  {
+    "IdJugador": "a76add8a-2637-4723-8d04-15ae5d3bf235",
+    "Nombre": "Antonio P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 83,
+    "Fuerza": 71,
+    "VelocidadDesplazamiento": 93
+  },
+  {
+    "IdJugador": "68e6094d-597b-4f6b-b951-3cc257d35801",
+    "Nombre": "Jos\u00e9 Javier L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 74,
+    "Fuerza": 79,
+    "VelocidadDesplazamiento": 92
+  },
+  {
+    "IdJugador": "f614c7cc-688d-4095-8ff5-f3c2aa2d3638",
+    "Nombre": "Antonio Ruiz",
+    "Genero": "Masculino",
+    "NivelHabilidad": 97,
+    "Fuerza": 72,
+    "VelocidadDesplazamiento": 91
+  },
+  {
+    "IdJugador": "ab08b607-bdae-48c7-8268-334cf1a5580a",
+    "Nombre": "Antonio Torres",
+    "Genero": "Masculino",
+    "NivelHabilidad": 100,
+    "Fuerza": 72,
+    "VelocidadDesplazamiento": 89
+  },
+  {
+    "IdJugador": "1e494bd2-04b3-43ec-8087-955d4ade1cd9",
+    "Nombre": "Juan Carlos P\u00e9rez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 88,
+    "Fuerza": 75,
+    "VelocidadDesplazamiento": 77
+  },
+  {
+    "IdJugador": "e5979da3-f345-48de-a516-3c30698088c7",
+    "Nombre": "Luis L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 80,
+    "Fuerza": 92,
+    "VelocidadDesplazamiento": 88
+  },
+  {
+    "IdJugador": "ee132ee3-506f-4919-b07c-d875a894998e",
+    "Nombre": "Daniel L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 98,
+    "Fuerza": 97,
+    "VelocidadDesplazamiento": 92
+  },
+  {
+    "IdJugador": "89cba28c-b52d-46dd-b68b-f4ad815281c3",
+    "Nombre": "Pedro Mart\u00ednez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 88,
+    "Fuerza": 79,
+    "VelocidadDesplazamiento": 74
+  },
+  {
+    "IdJugador": "1e945470-9c23-4bdd-b03b-e5bb98da7d73",
+    "Nombre": "Eduardo Fern\u00e1ndez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 100,
+    "Fuerza": 100,
+    "VelocidadDesplazamiento": 79
+  },
+  {
+    "IdJugador": "9dbe552d-ab59-4be3-aa0e-2343ed54e0a2",
+    "Nombre": "Carlos Hern\u00e1ndez",
     "Genero": "Masculino",
     "NivelHabilidad": 93,
-    "Fuerza": 87,
+    "Fuerza": 100,
+    "VelocidadDesplazamiento": 76
+  },
+  {
+    "IdJugador": "f9fba818-222f-449a-accc-3b6b4b4aa89f",
+    "Nombre": "Ricardo G\u00f3mez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 78,
+    "Fuerza": 98,
+    "VelocidadDesplazamiento": 97
+  },
+  {
+    "IdJugador": "47d28cc3-289a-429e-8dba-d33b439334b6",
+    "Nombre": "Rafael Ruiz",
+    "Genero": "Masculino",
+    "NivelHabilidad": 88,
+    "Fuerza": 70,
+    "VelocidadDesplazamiento": 98
+  },
+  {
+    "IdJugador": "832b61f3-779c-4a84-ba56-7fe30ec818bb",
+    "Nombre": "Francisco Rodr\u00edguez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 73,
+    "Fuerza": 82,
+    "VelocidadDesplazamiento": 77
+  },
+  {
+    "IdJugador": "c818028e-9837-463b-a134-c019549c705f",
+    "Nombre": "Ra\u00fal Gonz\u00e1lez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 90,
+    "Fuerza": 72,
+    "VelocidadDesplazamiento": 78
+  },
+  {
+    "IdJugador": "7924d512-3bc0-42cd-b307-94767f68f9dd",
+    "Nombre": "Alejandro Garc\u00eda",
+    "Genero": "Masculino",
+    "NivelHabilidad": 83,
+    "Fuerza": 79,
+    "VelocidadDesplazamiento": 75
+  },
+  {
+    "IdJugador": "59f86acd-5e37-46a1-b962-b7f28876e3cd",
+    "Nombre": "Ricardo L\u00f3pez",
+    "Genero": "Masculino",
+    "NivelHabilidad": 89,
+    "Fuerza": 76,
+    "VelocidadDesplazamiento": 82
+  },
+  {
+    "IdJugador": "d9b21a98-4db7-4867-9683-9c7d83f13ea2",
+    "Nombre": "\u00c1lvaro D\u00edaz",
+    "Genero": "Masculino",
+    "NivelHabilidad": 88,
+    "Fuerza": 71,
     "VelocidadDesplazamiento": 83
   }
 ]

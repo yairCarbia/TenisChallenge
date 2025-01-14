@@ -2,7 +2,7 @@
 {
     public class JugadorDTO
     {
-        public int IdJugador { get; set; }
+        public Guid IdJugador { get; set; }
         public string Nombre { get; set; }
         public string Genero { get; set; }
         public int NivelHabilidad { get; set; }
