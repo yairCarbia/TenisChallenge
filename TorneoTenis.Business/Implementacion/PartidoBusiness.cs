@@ -19,7 +19,7 @@ namespace TorneoTenis.Business.Implementacion
             if (jugadorUno == null || jugadorDos == null)
                 throw new ArgumentNullException(Messages.MESSAGES_ERROR_SE_REQUIEREN_2_JUGADORES);
             //la habilidad tiene un peso mayor.
-            const double PONDERACION_HABILIDAD = 0.5; 
+            const double PONDERACION_HABILIDAD = 0.4; 
             //la fuerza tiene un peso signifcativo.
             const double PONDERACION_FUERZA = 0.3;   
             //la velocidad tiene un peso normal
