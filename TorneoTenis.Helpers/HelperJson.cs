@@ -16,6 +16,6 @@ public static class JsonHelper
             throw new FileNotFoundException(Messages.MESSAGES_ERROR_NO_SE_ENCONTRO_EL_ARCHIVO_JSON.Format(rutaArchivo));
 
         string json = File.ReadAllText(rutaArchivo);
-        return JsonSerializer.Deserialize<List<Jugador>>(json);
+        return JsonSerializer.Deserialize<List<Jugador>>(json) ?? new List<Jugador>();
     }
 }

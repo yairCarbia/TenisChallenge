@@ -10,7 +10,7 @@ namespace TorneoTenis.Business.Implementacion
     {
         private readonly IPartidoBusiness _partidoBusiness;
         private readonly ITorneoAuditoriaBusiness _auditoriaBusiness;
-        private JugadorDTO _ganador;
+        private JugadorDTO _ganador = new JugadorDTO();
         public TorneoBusiness(IPartidoBusiness partidoBusiness, ITorneoAuditoriaBusiness auditoriaBusiness)
         {
             _partidoBusiness = partidoBusiness;
